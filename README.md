@@ -9,6 +9,7 @@
 
 # [Clang Docker](https://github.com/KnowledgePending/Clang-Docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bryankp/clang.svg)](https://hub.docker.com/r/bryankp/clang)
+![Docker](https://github.com/KnowledgePending/Clang-Docker/workflows/Docker/badge.svg?branch=master)
 
 
 
